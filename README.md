@@ -1,4 +1,4 @@
-# 🤖 RAG Chatbot (LangChain + HuggingFace + Gradio, CPU)
+# 🤖 RAG Chatbot (LangChain + HuggingFace)
 
 This project builds a **Retrieval-Augmented Generation (RAG)** chatbot from your own text data using:
 
