@@ -94,6 +94,7 @@ http://localhost:7860
 ---
 
 ## 💬 Example Output
+![Screenshot 2025-05-22 170251](https://github.com/user-attachments/assets/cc6a320d-e94c-431e-98f1-c33b9194379e)
 
 ```
 User: hey, how are you?
