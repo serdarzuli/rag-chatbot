@@ -8,9 +8,7 @@ class QuestionRequest(BaseModel):
 
 @router.post("/ask")
 def ask_question_endpoint(request: QuestionRequest):
-    """
-    Endpoint to ask a question and get an answer.
-    """
+    
     print(f"Received question: {request.question}")
     try:
         answer = ask_question(request.question)
