@@ -22,7 +22,7 @@ with gr.Blocks() as demo:
     gr.Markdown("## 💬 RAG Chatbot (LangChain + CPU)")
 
     chatbot = gr.Chatbot()
-    msg = gr.Textbox(placeholder="Type your question here...", show_label=False).style(container=False)
+    msg = gr.Textbox(placeholder="Type your question here...")
 
     clear = gr.Button("🧹 Clear All Chat ")
 
