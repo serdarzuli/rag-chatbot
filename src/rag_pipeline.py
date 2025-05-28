@@ -47,7 +47,6 @@ def get_conversational_chain():
         return_source_documents=False,
         verbose=False,
     )     
-    # print(qa_chain.prompt.format(question="what school do you go to?", chat_history=memory.buffer))
 
     return qa_chain   
         
